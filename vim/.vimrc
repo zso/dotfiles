@@ -19,7 +19,7 @@ syntax on
 " use Solarized colorscheme
 syntax enable
 colorscheme solarized
-set background=dark
+set background=light
 " highlight Comment font='Meslo LG S DZ italic'
 
 " The Silver Searcher
